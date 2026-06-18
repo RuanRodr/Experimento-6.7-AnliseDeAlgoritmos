@@ -1,5 +1,7 @@
-# Experimento-6.7---An-lise-de-Algoritmos
+# Experimento-6.7-Analise-de-Algoritmos
 Experimento 6.7 da matéria de Análise de Algoritmos
+
+LINK DO VIDEO: https://www.youtube.com/watch?v=kDd20a9sdwU
 
 6.7 Multiplicação de Inteiros Grandes em Criptografia
 Contexto. Sistemas de criptografia, como RSA, podem precisar multiplicar inteiros com
